@@ -16,9 +16,8 @@ import com.wakaleo.gameoflife.domain.Universe;
  * Game of life, demonstration application for Jenkins: The Definitive Guide
  *
  * GameController.java
- * Controller to navigate the buttons on the game pages
- * new commit on github-testing
- * new committesting
+ * Controller to navigate the buttons on the game page
+ * remove new commit testing
  */
 @Controller
 @RequestMapping("/game")
