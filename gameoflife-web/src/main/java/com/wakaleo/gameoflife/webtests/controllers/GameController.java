@@ -17,7 +17,7 @@ import com.wakaleo.gameoflife.domain.Universe;
  *
  * GameController.java
  * Controller to navigate the buttons on the game page
- * remove new commit testing
+ * remove new commit testing again
  */
 @Controller
 @RequestMapping("/game")
